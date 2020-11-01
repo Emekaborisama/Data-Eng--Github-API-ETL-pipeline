@@ -10,7 +10,7 @@ Github API
 Pandas GBQ
 SQL Alchemy
 
-Futher more
-Realse the full version application, run and monitor the pipeline
+- Futher more
+Release the full version application, run and monitor the pipeline
 
 
