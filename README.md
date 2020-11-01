@@ -15,6 +15,6 @@ SQL Alchemy
 - Release the full version application, run and monitor the pipeline
 - Integreate google cloud dataprep 
 
-[Image of bq](Screen Shot 2020-11-01 at 6.37.28 PM.png)
+![Image of bq](https://github.com/Emekaborisama/Data-Eng--Github-API-ETL-pipeline/blob/main/Screen%20Shot%202020-11-01%20at%206.37.28%20PM.png)
 
 
