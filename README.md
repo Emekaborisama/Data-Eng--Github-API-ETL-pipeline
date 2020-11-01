@@ -15,4 +15,6 @@ SQL Alchemy
 - Release the full version application, run and monitor the pipeline
 - Integreate google cloud dataprep 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
