@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 # or using an access token
-g = Github("ce0b6b0658bd5f3d3fc7072bf497a6897d07de18")
+g = Github("xxxxxxxxxxxx")
 
 #create a loading pipeline 
 import requests
