@@ -13,6 +13,6 @@ SQL Alchemy
 # Futher more:
 
 - Release the full version application, run and monitor the pipeline
-- Try google cloud dataprep 
+- Integreate google cloud dataprep 
 
 
