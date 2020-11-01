@@ -11,7 +11,6 @@ Pandas GBQ
 SQL Alchemy
 
 Futher more
-
 Realse the full version application, run and monitor the pipeline
 
 
